@@ -26,7 +26,7 @@ Los temas cubiertos en la evaluación final incluyen:
 - Identificación de patrones y análisis avanzado: Uso de técnicas avanzadas de consulta, como el uso de operadores LIKE y expresiones regulares para buscar patrones específicos en los datos, así como consultas más complejas para realizar análisis avanzados, como la identificación de tendencias o la detección de anomalías.
 - Optimización de consultas: Uso de consultas SQL mediante el uso adecuado de índices, la optimización de la lógica de la consulta y la minimización de la duplicación de datos, lo que puede mejorar el rendimiento y la eficiencia de las consultas.
   
-# 2. CONTENIDO: 
+# 2. CONTENIDO:  
 - evaluacion_final/: Contiene la resolución de la evaluación final. Ejercicios abordados en SQL como la realización de consultas y filtrado de datos, agrupación y resumen de datos, subconsultas y combinación de datos, identificación de patrones y analisis avanzado y la optimización de consultas.
 - evaluacion_final-explicacion/: Contiene la resolución de la evaluación final con la explicación y el paso a paso de los ejercicios.
 
