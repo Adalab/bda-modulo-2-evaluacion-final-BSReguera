@@ -304,7 +304,7 @@ HAVING COUNT(`fa`.`film_id`) >= 5;
 
 
 -- 22. Encuentra el título de todas las películas que fueron alquiladas por más de 5 días. Utiliza una subconsulta para encontrar los rental_ids con una duración superior a 5 días y luego selecciona las películas correspondientes.
--- Explicación: La consulta selecciona solo el título de las peliculas de la tabla film, Se filtran las películas basadas en el film_id obtenido de una subconsulta que involucra las tablas inventory y rental.
+-- Explicación: La consulta selecciona solo el título de las peliculas de la tabla film, se filtran las películas basadas en el film_id obtenido de una subconsulta que involucra las tablas inventory y rental.
 -- Y usando DATEDIFF se calcula la diferencia en días entre la fecha de retorno y la fecha de alquiler, seleccionando solo aquellas películas que han sido alquiladas por más de 5 días.
 SELECT `title`
 FROM `film` 
