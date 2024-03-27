@@ -6,7 +6,11 @@
 ## INDICE
 1. [Descripción](#1-descripción)
 2. [Contenido](#2-contenido)
+<<<<<<< HEAD
 3. [¿Porqué este repositorio es útil?](#3-utilidad)
+=======
+3. [¿Por qué este repositorio es útil?](#3-utilidad)
+>>>>>>> 61599b05994c9c77929cb8cca574c18892491487
    
 
 Aquí encontrarás la resolución completa de la evaluación final del módulo 2 "Domina el arte de extraer información valiosa". Este repositorio está diseñado para proporcionarte una comprensión profunda y práctica de los conceptos fundamentales de SQL.
@@ -26,11 +30,19 @@ Los temas cubiertos en la evaluación final incluyen:
 - Identificación de patrones y análisis avanzado: Uso de técnicas avanzadas de consulta, como el uso de operadores LIKE y expresiones regulares para buscar patrones específicos en los datos, así como consultas más complejas para realizar análisis avanzados, como la identificación de tendencias o la detección de anomalías.
 - Optimización de consultas: Uso de consultas SQL mediante el uso adecuado de índices, la optimización de la lógica de la consulta y la minimización de la duplicación de datos, lo que puede mejorar el rendimiento y la eficiencia de las consultas.
   
+<<<<<<< HEAD
 # 2. CONTENIDO: 
 - evaluacion_final/: Contiene la resolución de la evaluación final. Ejercicios abordados en SQL como la realización de consultas y filtrado de datos, agrupación y resumen de datos, subconsultas y combinación de datos, identificación de patrones y analisis avanzado y la optimización de consultas.
 - evaluacion_final-explicacion/: Contiene la resolución de la evaluación final con la explicación y el paso a paso de los ejercicios.
 
 # 3. ¿PORQUÉ ESTE REPOSITORIO ES ÚTIL?: 
+=======
+# 2. CONTENIDO:  
+- evaluacion_final/: Contiene la resolución de la evaluación final. Ejercicios abordados en SQL como la realización de consultas y filtrado de datos, agrupación y resumen de datos, subconsultas y combinación de datos, identificación de patrones y analisis avanzado y la optimización de consultas.
+- evaluacion_final-explicacion/: Contiene la resolución de la evaluación final con la explicación y el paso a paso de los ejercicios.
+
+# 3. ¿POR QUÉ ESTE REPOSITORIO ES ÚTIL?: 
+>>>>>>> 61599b05994c9c77929cb8cca574c18892491487
 - Práctica Profunda: Las soluciones proporcionadas permiten practicar y reforzar los conceptos fundamentales de SQL aprendidos en el módulo 2.
 - Referencia Clara: Cada solución está realizada de forma clara y detallada, lo que ayuda a comprender cómo y por qué se implementa cierto enfoque.
 
